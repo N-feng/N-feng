@@ -113,6 +113,24 @@
 
 ---
 
+### 🎯 Focus Areas
+
+<table>
+  <tr><td>
+
+| 🔭 Focus Area | 📊 Level |
+|---|---|
+| 🤖 AI Agent & LLM Toolchain | ██████████████████████ 95% |
+| 🏗️ Full-Stack Development | ███████████████████░░░ 85% |
+| 🐧 Self-Hosted Infra & Docker | ████████████████░░░░░░ 75% |
+| 📱 Cross-Platform (Flutter) | ███████████████░░░░░░░ 65% |
+| 🎨 UI / Frontend Design | ██████████████░░░░░░░░ 60% |
+
+  </td></tr>
+</table>
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Profile_Views-1B2B2B?style=flat-square&logo=github&logoColor=white" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/N-feng?style=flat-square&logo=github&label=Followers&color=blue" alt="Followers"/>
