@@ -115,19 +115,13 @@
 
 ### 🎯 Focus Areas
 
-<table>
-  <tr><td>
-
-| 🔭 Focus Area | 📊 Level |
+| Focus Area | Proficiency |
 |---|---|
-| 🤖 AI Agent & LLM Toolchain | ██████████████████████ 95% |
-| 🏗️ Full-Stack Development | ███████████████████░░░ 85% |
-| 🐧 Self-Hosted Infra & Docker | ████████████████░░░░░░ 75% |
-| 📱 Cross-Platform (Flutter) | ███████████████░░░░░░░ 65% |
-| 🎨 UI / Frontend Design | ██████████████░░░░░░░░ 60% |
-
-  </td></tr>
-</table>
+| 🤖 AI Agent & LLM Toolchain | `██████████░░` 95% |
+| 🏗️ Full-Stack Development | `█████████░░░` 85% |
+| 🐧 Self-Hosted Infra & Docker | `████████░░░░` 75% |
+| 📱 Cross-Platform (Flutter) | `███████░░░░░` 65% |
+| 🎨 UI / Frontend Design | `██████░░░░░░` 60% |
 
 ---
 
