@@ -25,33 +25,23 @@
 
 <table>
   <tr>
-    <td><b>Languages</b></td>
-    <td>
+    <td valign="top"><b>Languages</b><br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
     </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
+    <td valign="top"><b>Frontend</b><br>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
       <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" alt="AntD"/>
     </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
+    <td valign="top"><b>Backend</b><br>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node"/>
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="Nest"/>
       <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
     </td>
-  </tr>
-  <tr>
-    <td><b>Infra & AI</b></td>
-    <td>
+    <td valign="top"><b>Infra & AI</b><br>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
       <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="CF"/>
       <img src="https://img.shields.io/badge/LLM_Gateway-FF6B6B?style=flat-square&logo=openai&logoColor=white" alt="LLM"/>
