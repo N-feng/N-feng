@@ -105,13 +105,28 @@
 
 ### 🎯 Focus Areas
 
-| Focus Area | Proficiency |
-|---|---|
-| 🤖 AI Agent & LLM Toolchain | `███████████████████░` 95% |
-| 🏗️ Full-Stack Development | `█████████████████░░░` 85% |
-| 🐧 Self-Hosted Infra & Docker | `███████████████░░░░░` 75% |
-| 📱 Cross-Platform (Flutter) | `█████████████░░░░░░░` 65% |
-| 🎨 UI / Frontend Design | `████████████░░░░░░░░` 60% |
+<table>
+  <tr>
+    <td width="200">🤖 AI Agent & LLM Toolchain</td>
+    <td><img width="100%" src="assets/bar-95.svg" alt="95%"/></td>
+  </tr>
+  <tr>
+    <td width="200">🏗️ Full-Stack Development</td>
+    <td><img width="100%" src="assets/bar-85.svg" alt="85%"/></td>
+  </tr>
+  <tr>
+    <td width="200">🐧 Self-Hosted Infra & Docker</td>
+    <td><img width="100%" src="assets/bar-75.svg" alt="75%"/></td>
+  </tr>
+  <tr>
+    <td width="200">📱 Cross-Platform (Flutter)</td>
+    <td><img width="100%" src="assets/bar-65.svg" alt="65%"/></td>
+  </tr>
+  <tr>
+    <td width="200">🎨 UI / Frontend Design</td>
+    <td><img width="100%" src="assets/bar-60.svg" alt="60%"/></td>
+  </tr>
+</table>
 
 ---
 
