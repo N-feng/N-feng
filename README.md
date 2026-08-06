@@ -64,7 +64,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img height="170" src="https://streak-stats.demolab.com/?user=N-feng&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
