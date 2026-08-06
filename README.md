@@ -107,23 +107,23 @@
 
 <table>
   <tr>
-    <td width="200">🤖 AI Agent & LLM Toolchain</td>
+    <td nowrap>🤖 AI Agent & LLM Toolchain</td>
     <td><img width="100%" src="assets/bar-95.svg" alt="95%"/></td>
   </tr>
   <tr>
-    <td width="200">🏗️ Full-Stack Development</td>
+    <td nowrap>🏗️ Full-Stack Development</td>
     <td><img width="100%" src="assets/bar-85.svg" alt="85%"/></td>
   </tr>
   <tr>
-    <td width="200">🐧 Self-Hosted Infra & Docker</td>
+    <td nowrap>🐧 Self-Hosted Infra & Docker</td>
     <td><img width="100%" src="assets/bar-75.svg" alt="75%"/></td>
   </tr>
   <tr>
-    <td width="200">📱 Cross-Platform (Flutter)</td>
+    <td nowrap>📱 Cross-Platform (Flutter)</td>
     <td><img width="100%" src="assets/bar-65.svg" alt="65%"/></td>
   </tr>
   <tr>
-    <td width="200">🎨 UI / Frontend Design</td>
+    <td nowrap>🎨 UI / Frontend Design</td>
     <td><img width="100%" src="assets/bar-60.svg" alt="60%"/></td>
   </tr>
 </table>
