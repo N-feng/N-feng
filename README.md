@@ -76,29 +76,29 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🔐 KeyVault</h3>
-      <p align="center"><a href="https://github.com/N-feng/nfeng-keystore"><b>nfeng-keyster</b></a></p>
-      <p align="center">Central API key vault with balance monitoring, automated verification, and multi-provider deployment pipeline.</p>
-      <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></p>
+      <h3 align="center">⚡ Chrome Plugin</h3>
+      <p align="center"><a href="https://github.com/N-feng/nfeng-chrome-plugin"><b>nfeng-chrome-plugin</b></a></p>
+      <p align="center">Browser extension — practical utilities for daily web workflow.</p>
+      <p align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Hermes Agent</h3>
-      <p align="center"><a href="https://github.com/N-feng/nfeng-hermes-agent"><b>nfeng-hermes-agent</b></a></p>
-      <p align="center">Multi-profile AI agent skills & automation — Telegram gateway, cron jobs, and self-hosted LLM routing.</p>
-      <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></p>
+      <h3 align="center">🎨 UI Vue</h3>
+      <p align="center"><a href="https://github.com/N-feng/nfeng-ui-vue"><b>nfeng-ui-vue</b></a></p>
+      <p align="center">Vue.js component library & UI experiments.</p>
+      <p align="center"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue"/></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧭 Travel Planner</h3>
-      <p align="center"><a href="https://github.com/N-feng/nfeng-travel-planner"><b>nfeng-travel-planner</b></a></p>
-      <p align="center">Full-stack travel planning app with data pipeline, R2 image hosting, and Supabase backend.</p>
+      <h3 align="center">💰 Expense Tracker</h3>
+      <p align="center"><a href="https://github.com/N-feng/nfeng-expense-tracker"><b>nfeng-expense-tracker</b></a></p>
+      <p align="center">Full-stack expense tracking app — TypeScript + Supabase.</p>
       <p align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS"/></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎨 UI Showcase</h3>
-      <p align="center"><a href="https://github.com/N-feng/nfeng-ui-vue"><b>nfeng-ui-vue</b></a> · <a href="https://github.com/N-feng/nfeng-ui-jquery"><b>jQuery</b></a></p>
-      <p align="center">Component libraries & UI experiments — from jQuery to Vue to React.</p>
+      <h3 align="center">📱 UI jQuery</h3>
+      <p align="center"><a href="https://github.com/N-feng/nfeng-ui-jquery"><b>nfeng-ui-jquery</b></a></p>
+      <p align="center">Classic jQuery UI components — where the frontend journey started.</p>
       <p align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/></p>
     </td>
   </tr>
